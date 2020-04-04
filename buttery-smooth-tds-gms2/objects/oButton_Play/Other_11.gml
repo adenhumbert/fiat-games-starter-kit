@@ -1,0 +1,1 @@
+if pressed room_goto(rLevel1);
