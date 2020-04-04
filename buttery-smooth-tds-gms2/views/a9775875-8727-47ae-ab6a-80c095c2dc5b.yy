@@ -9,7 +9,7 @@
         "72bc74f6-f566-4d9f-9ef5-07818c9c090f"
     ],
     "filterType": "GMObject",
-    "folderName": "Buttery Smooth Movement",
+    "folderName": "Buttery Smooth Movement  (YYG Tech Blog)",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

@@ -1,0 +1,30 @@
+---------------------------------------
+| DeveloperConsole: Full Command List |
+---------------------------------------
+
+	create [obj] [optional x] [optional y]						//Create an object: create obj_healthpack
+	set [obj] [variable]										//Change the value of a variable: set obj_player hp 100
+	destroy [obj]												//Destroy an object: destroy obj_enemy
+	view [obj] [variable]										//Display a graph of a value: view obj_enemy x
+	script [script] [optional variable] [optional variable…]	//Run one of your scripts: script set_volume 100
+	game restart												//restart the whole game
+	game fullscreen_toggle										//Switch the game between full screen and windowed
+	game resource_count											//Displays a count of how many resources are currently active in the game (surfaces, datasets, particles, buffers, paths etc)
+	game instance_count											//Shows how many instances of each object there is.
+	game room_restart											//Restart the current room.
+	game room_goto [room]										//Loads the room that is passed in.
+	game debug_overlay [true/false]								//Turn on/off the built in GameMaker fps overlay.
+	game texture_debug [true/false]								//Turn on/off the built in GameMaker texture information.
+	game set_speed [fps]										//Change the speed the game is running at (in fps).
+	game debug_event [string]									//Post a message in the debug console.
+	console clear_screen										//Remove any messages in the history window.
+	console delete_history										//Delete the save file.
+	console version												//Display the version of the console you are currently running.
+	console check_for_updates									//Load a web page that shows if you are on the latest version and what features I am working on.
+	console about												//Just to remind you that I am a human.
+	help														//List the most popular commands you can run.
+	
+
+Thanks, Dave.
+
+http://www.davetech.co.uk/gamemakerdeveloperconsole
