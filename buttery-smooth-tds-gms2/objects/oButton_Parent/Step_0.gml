@@ -30,8 +30,7 @@ switch (state) {
 		        }
 		    image_yscale = image_xscale;
 		    if mouse_check_button_pressed(mb_left) {
-		        state = b_state.pressed;
-		        image_index = 2;
+				_press = true;
 		        }
 		    }
 	    break;

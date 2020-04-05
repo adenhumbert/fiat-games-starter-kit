@@ -19,3 +19,4 @@ movement = movement.directional;
 
 move_speed = 400;
 
+scr_randomPlace();

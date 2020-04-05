@@ -1,18 +1,18 @@
 {
-    "id": "72bc74f6-f566-4d9f-9ef5-07818c9c090f",
+    "id": "7ea460e2-ac6e-48d0-9bbc-6d2426d71faf",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oBuilding",
+    "name": "sGun_Placeholder",
     "eventList": [
         {
-            "id": "f41e1e3d-6656-45ee-acf6-b354908ff468",
+            "id": "6628e8d5-b33d-45e6-acfc-cffdafe7235b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 7,
-            "m_owner": "72bc74f6-f566-4d9f-9ef5-07818c9c090f"
+            "m_owner": "7ea460e2-ac6e-48d0-9bbc-6d2426d71faf"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -32,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "4c3fe938-f697-4eb7-8341-b3de6f6f3adb",
+    "solid": false,
+    "spriteId": "d6b45c39-965a-466e-a443-eb8fee734d6b",
     "visible": true
 }

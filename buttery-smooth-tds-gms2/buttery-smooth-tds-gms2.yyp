@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "4d099084-a4c9-46a6-9218-564d42b41b13",
+            "Value": {
+                "id": "54106614-6d32-4dd6-8bc1-0a687dae2e81",
+                "resourcePath": "scripts\\scr_randomPlace\\scr_randomPlace.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "500fbcc0-95d3-4ef9-8a9f-26649eda4dba",
             "Value": {
                 "id": "9371feb6-52d2-4f59-8dc0-607665c5b9c7",
@@ -676,6 +684,14 @@
                 "id": "af9423e2-7e20-4fdd-95ae-c8ddcbf7ae59",
                 "resourcePath": "sprites\\sChessSet\\sChessSet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ea460e2-ac6e-48d0-9bbc-6d2426d71faf",
+            "Value": {
+                "id": "9e4b6359-0add-4ea6-875f-88c7ff075ff0",
+                "resourcePath": "objects\\sGun_Placeholder\\sGun_Placeholder.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1506,6 +1522,7 @@
     "script_order": [
         "f8d20e6f-ae12-42d6-b90c-415aa0ce101f",
         "7a9182a0-749b-492f-9601-e0391d725162",
+        "4d099084-a4c9-46a6-9218-564d42b41b13",
         "24e3d7c3-663a-4fd0-ab35-cb00262230d6",
         "da7b646b-e255-45c5-b2de-434cb5570709",
         "c4f989d8-bde3-43e8-9f5e-341934b23ab9",

@@ -5,3 +5,7 @@ height = base_height;
 if room = rInit {
 	room_goto_next();
 }
+
+global.dw = width;
+global.dh = height;
+	

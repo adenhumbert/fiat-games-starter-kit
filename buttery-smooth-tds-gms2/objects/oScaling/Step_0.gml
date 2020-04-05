@@ -4,3 +4,7 @@ if (browser_width != width || browser_height != height)
     height = min(base_height, browser_height);
     scale_canvas(base_width, base_height, width, height, true);
     }
+	
+global.dw = width;
+global.dh = height;
+	

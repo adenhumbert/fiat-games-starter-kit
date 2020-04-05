@@ -3,3 +3,4 @@ image_xscale = 0;
 image_yscale = 0;
 state = b_state.create;
 pressed = false;
+_press = false;
