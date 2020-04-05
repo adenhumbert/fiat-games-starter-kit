@@ -30,6 +30,7 @@
         "projectPath": "${base_project}"
     },
     "resources": [
+        {
             "Key": "00bb49af-0b1e-4b8d-ae78-b085907716de",
             "Value": {
                 "id": "ee92b4b4-f9c4-4b0d-a3d4-dc43d4839552",
