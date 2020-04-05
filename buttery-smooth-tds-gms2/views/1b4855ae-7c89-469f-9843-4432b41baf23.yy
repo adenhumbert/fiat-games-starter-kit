@@ -10,7 +10,7 @@
         "2d802cd4-59e4-4256-bec7-a76f3f5a8c9f"
     ],
     "filterType": "GMSprite",
-    "folderName": "FSM \/ Menu Buttons",
+    "folderName": "FSM \/ Menu Button Tutorial",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
